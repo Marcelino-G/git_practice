@@ -1,2 +1,2 @@
-#markdown practice
-##first time using git! 
+# markdown practice
+## first time using git! 
