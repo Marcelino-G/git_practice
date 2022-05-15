@@ -1,5 +1,5 @@
 # Markdown Practice
-* First Time Using Git! *
+* First * Time Using Git!
 
 So far, I've...
 
